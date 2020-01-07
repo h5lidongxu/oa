@@ -1,4 +1,4 @@
-package com.ldx.bean;
+package com.sf.oa.bean;
 
 import java.util.HashMap;
 import java.util.Map;
